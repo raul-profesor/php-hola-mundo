@@ -1,7 +1,7 @@
 <?php
 // Recuperar variables de entorno
 $dbHost = getenv('DB_HOST');
-$dbName = "tarea3";         
+$dbName = "tarea3_incorrecto";         
 $dbUser = getenv('DB_USER');
 $dbPass = getenv('DB_PASSWORD');
 
